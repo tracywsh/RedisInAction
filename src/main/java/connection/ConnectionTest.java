@@ -1,6 +1,5 @@
-package test;
+package connection;
 
-import connection.ConnectionPool;
 import redis.clients.jedis.Jedis;
 
 public class ConnectionTest {
